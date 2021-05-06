@@ -3,6 +3,6 @@ This repo contains materials from my NYU DS "Text as Data" course from spring 20
 
 The lectures are split into two types: 
 - **"pre-recorded" content**: these slides were the backdrop for my weekly (uploaded) videos that students watched before coming to class.  These are "core" teaching, and don't require any audience input.
-- **"flipped" classroom sessions**: these were taught interactively with the students, once a week.  They include quizzes, questions, problems, technical extensions, discussion of applications etc.  
+- **"flipped" classroom sessions**: these were taught interactively with the students, once a week.  They include material recap, quizzes, questions, problems, technical extensions, discussion of applications etc.  
 
 If you need the underlying .tex files, images, animations etc and you are an educator, drop me a line: I will do my best to get those to you.
