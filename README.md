@@ -6,3 +6,5 @@ The lectures are split into two types:
 - **"flipped" classroom sessions**: these were taught interactively with the students, once a week.  They include material recap, quizzes, questions, problems, technical extensions, discussion of applications etc.  
 
 If you need the underlying .tex files, images, animations etc and you are an educator, drop me a line: I will do my best to get those to you.
+
+My excellent teaching assistant, [Lucia Motolinia](https://wp.nyu.edu/lucia_motolinia/) has teaching materials for each of her weekly labs [here](https://wp.nyu.edu/lucia_motolinia/teaching/).
