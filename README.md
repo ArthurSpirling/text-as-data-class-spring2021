@@ -7,4 +7,4 @@ The lectures are split into two types:
 
 If you need the underlying .tex files, images, animations etc and you are an educator, drop me a line: I will do my best to get those to you.
 
-My excellent teaching assistant, [Lucia Motolinia](https://wp.nyu.edu/lucia_motolinia/) has teaching materials for each of her weekly labs [here](https://wp.nyu.edu/lucia_motolinia/teaching/).
+My teaching assistant was [Lucia Motolinia](https://sites.wustl.edu/luciamotolinia/).  She may have teaching materials of interest going forward.
